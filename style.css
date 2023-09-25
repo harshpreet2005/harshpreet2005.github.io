@@ -1,0 +1,29 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+  }
+  nav ul li{
+    padding: 10px;
+    margin: 10px;
+    /* background-color: aqua;
+    color: black; */
+
+  }
+  nav{
+    background-color: rgba(165, 42, 42, 0.733);
+  }
+  h2{
+    background-color: darkgray;
+    color: black;
+  }
+
+  body{
+    background-color: beige;
+  }
